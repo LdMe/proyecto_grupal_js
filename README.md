@@ -2,3 +2,9 @@
 
 miembros:
 Danel
+
+tema:
+tienda online
+
+Resumen:
+Lorem Ipsum dolor sir amet
