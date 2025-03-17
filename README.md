@@ -7,5 +7,5 @@ tema:
 tienda online
 
 Resumen:
-Lorem Ipsum dolor sir amet
+Otro resumen
 otra cosa
